@@ -19,7 +19,7 @@ passport.use(new GoogleStrategy(
         {
             clientID: keys.googleClientID,
             clientSecret: keys.googleClientSecret,
-            callbackURL: 'https://radiant-wildwood-64958.herokuapp.com/auth/google/callback',
+            callbackURL: '/auth/google/callback',
             proxy: true
         },
         (accessToken, refreshToken, profile, done) =>{
