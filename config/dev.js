@@ -1,7 +1,7 @@
 // dev.js don't commit this
 module.exports = {
-    googleClientID: '275786397144-bose88d31fd42ivcdldereorr0src5q4.apps.googleusercontent.com',
-    googleClientSecret: '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',
-    mongoURI: 'mongodb+srv://Julie17_XI:Fall2022SA@cluster0.g0jxege.mongodb.net/ideapop?retryWrites=true&w=majority',
+    googleClientID: '470511706185-4mukhptu5knk2404auugm50fcfhh98ej.apps.googleusercontent.com',
+    googleClientSecret: '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',
+    mongoURI: 'mongodb+srv://Julie17_XI:Goodluck2u!@cluster0.g0jxege.mongodb.net/ideapop?retryWrites=true&w=majority',
     cookieKey: 'corgisamoyedicecappedmountains'
 };
